@@ -44,16 +44,14 @@ and to get new skillset.
 		
 		
 **Courses**:  
-
-		[JavaScript для начинающих](https://stepik.org/course/2223/syllabus)  
-		[Web-технологии](https://stepik.org/course/154/syllabus)  
-		[Введение в архитектуру ЭВМ. Элементы операционных систем.](https://stepik.org/course/253/syllabus)  
+* [JavaScript для начинающих](https://stepik.org/course/2223/syllabus)  
+* [Web-технологии](https://stepik.org/course/154/syllabus)  
+* [Введение в архитектуру ЭВМ. Элементы операционных систем.](https://stepik.org/course/253/syllabus)  
 		
 							 
 **Сode examples**:  
-
-		[https://github.com/jarolika30/udemyKurs](https://github.com/jarolika30/udemyKurs)  
-		[https://github.com/jarolika30/startMatterTask](https://github.com/jarolika30/startMatterTask)   
+* [https://github.com/jarolika30/udemyKurs](https://github.com/jarolika30/udemyKurs)  
+* [https://github.com/jarolika30/startMatterTask](https://github.com/jarolika30/startMatterTask)   
 		
 							 
 **English**: I can read technical literature and take courses in English							 
