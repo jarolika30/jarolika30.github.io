@@ -1,9 +1,9 @@
 # Staurova Katsiaryna  
 
-**Phone**:   8(029) – 325-19-12
-**E-mail**:  zaragannikova@rambler.ru
-**Address**: Belarus, Gomel
-             Yubileynaya 13/18, 246028  
+**Phone**: 8(029) – 325-19-12  
+**E-mail**: zaragannikova@rambler.ru  
+**Address**: Belarus, Gomel  
+	     Yubileynaya 13/18, 246028  
 			 
 **My goal**: to obtain a Junior  Front-end Developer position.  
 ```
