@@ -7,13 +7,14 @@
 			 
 **My goal**: to obtain a Junior  Front-end Developer position.  
 ```
-I have recently finished my second education, now I am looking for a good start for my career in IT.  
-My main interest is to develop my skills in Web-technologies. On my opinion this area plays leading  position in the modern development.  
-It`s developing fast and opens good jobs perspective.  
-My professional background was connected with teaching. I think, that my previous job helped me to get such important skills as  
-patience, responsibility and although  not to be afraid of any difficulties. 
-In addition I can teach others and learn by myself. Live and learn - it's about me. I like to face new challenges and to get new skillset.
-Now I am ready to work hard and to take much time for becoming a good specialist in web-development. 
+	I have recently finished my second education, now I am looking for a good start for my career in IT.  
+	My main interest is to develop my skills in Web-technologies. On my opinion this area plays leading 
+position in the modern development. It`s developing fast and opens good jobs perspective.  
+	My professional background was connected with teaching. I think, that my previous job helped me to get 
+such important skills as patience, responsibility and although  not to be afraid of any difficulties. 
+In addition I can teach others and learn by myself. Live and learn - it's about me. I like to face new challenges 
+and to get new skillset.
+	Now I am ready to work hard and to take much time for becoming a good specialist in web-development. 
  
 ```
 **Education**: Sukhoi State Technical University of Gomel
