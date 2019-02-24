@@ -40,7 +40,7 @@ and to get new skillset.
 					  
 **Electronic certificates**:  
 
-		[The Complite JavaScript Cource](https://www.udemy.com/certificate/UC-QT0R53K2/)  
+		[The Complite JavaScript Cource] 
 		[Web Design for Web-Developers](https://www.udemy.com/certificate/UC-5ZAJZ3ZG/)  
 		
 		
