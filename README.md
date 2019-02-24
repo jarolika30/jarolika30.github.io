@@ -19,10 +19,10 @@ and to get new skillset.
 ```
 **Education**:  
 
-		* Sukhoi State Technical University of Gomel *  
+		***Sukhoi State Technical University of Gomel***  
 			2016-2018  
 			Qualification: software developer  
-		*Francisk Skorina Gomel State University*  
+		***Francisk Skorina Gomel State University***  
 			2005-2010  
 			Qualification: teacher of German and English  
 			
