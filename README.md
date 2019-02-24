@@ -39,7 +39,7 @@ and to get new skillset.
 		git,Java, Servlet and JSP-Technologies  
 					  
 **Electronic certificates**:  
-* [The Complite JavaScript Cource](https://www.udemy.com/certificate/UC-QT0R53K2/) 
+* [The Complete JavaScript Course](https://www.udemy.com/certificate/UC-QT0R53K2/) 
 * [Web Design for Web-Developers](https://www.udemy.com/certificate/UC-5ZAJZ3ZG/)  
 		
 		
