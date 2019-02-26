@@ -15,7 +15,7 @@ and it is the best way to implement my ideas and dreams. Among a large numbers o
 languages I prefer JavaScript. It allows not only to create beautiful and interactive projects, 
 but also can be used on the server side.
 	At the moment I am familiar with NodeJS, Sass, JQuery, I made some projects using them. I 
-want to developer  in this area and to be able to write code better and more efficiently.
+want to develop  in this area and to be able to write code better and more efficiently.
 	My professional background was connected with teaching. I think, that my previous job helped 
 me to get such important skills as patience, responsibility and although  not to be afraid of any 
 difficulties. In addition I can teach others and learn by myself. I think, it is very important 
