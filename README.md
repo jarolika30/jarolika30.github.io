@@ -48,7 +48,7 @@ knowledge in real Web Development projects.
 **Electronic certificates**:  
 * [The Complete JavaScript Course](https://www.udemy.com/certificate/UC-QT0R53K2/) 
 * [Web Design for Web Developers](https://www.udemy.com/certificate/UC-5ZAJZ3ZG/)  
-* [Version Control with Git] (https://www.coursera.org/learn/version-control-with-git)  
+* [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)  
 		
 		
 **Courses**:  
